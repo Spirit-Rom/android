@@ -506,6 +506,9 @@
 
   <!-- ############################## The spirit is here ############################## -->
 
+  <!-- AICP -->
+  <project path="packages/apps/EOSWeather" name="Nico60/packages_apps_EOSWeather" revision="kitkat" />
+
   <!-- ChameleonOS -->
   <project path="packages/apps/ScreenRecorder" name="Nico60/android_packages_apps_ScreenRecorder" revision="kitkat" />
 
