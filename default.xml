@@ -514,7 +514,9 @@
 
   <!-- OmniRom -->
   <project path="packages/apps/OmniSwitch" name="Nico60/packages_apps_OmniSwitch" revision="kitkat" />
-  <project path="packages/apps/PerformanceControl" name="Nico60/packages_apps_PerformanceControl" revision="kitkat" />
+
+  <!-- KernelTweaker -->
+  <project path="packages/apps/KernelTweaker" name="Nico60/packages_apps_KernelTweaker" revision="kitkat" />
 
   <!-- SaberMod toolchain -->
   <project name="Nico60/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-eabi-4.7" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7-sm" revision="sm-jb-mr2"/>
