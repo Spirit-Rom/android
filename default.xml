@@ -376,7 +376,7 @@
   <project path="packages/apps/Calculator" name="Nico60/packages_apps_Calculator" revision="kitkat" />
   <project path="packages/apps/Calendar" name="Nico60/packages_apps_Calendar" revision="kitkat" />
   <project path="packages/apps/Camera2" name="Nico60/packages_apps_Camera2" revision="kitkat" />
-  <project path="packages/apps/CellBroadcastReceiver" name="Nico60/packages_apps_CellBroadcastReceiver" revision="kitkat" />
+  <project path="packages/apps/CellBroadcastReceiver" name="CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMAccount" name="Nico60/packages_apps_CMAccount" revision="kitkat" />
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" />
