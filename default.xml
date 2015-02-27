@@ -256,7 +256,6 @@
 
   <!-- CM -->
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
-  <project path="art" name="CyanogenMod/android_art" groups="pdk" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" groups="pdk" />
   <project path="cts" name="CyanogenMod/android_cts" groups="cts,pdk-cw-fs" />
   <project path="development" name="CyanogenMod/android_development" groups="pdk-cw-fs" />
@@ -489,6 +488,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="android" name="android" remote="sr" revision="lollipop" />
+  <project path="art" name="android_art" remote="sr" revision="lollipop" />
   <project path="bionic" name="android_bionic" remote="sr" revision="lollipop" />
   <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" remote="sr" revision="lollipop" />
   <project path="hardware/qcom/media-caf/msm8974" name="android_hardware_qcom_media" remote="sr" revision="cm-12.0-caf-8974" />
