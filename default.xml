@@ -508,9 +508,9 @@
   <project path="vendor/spirit" name="android_vendor_spirit" remote="sr" revision="lollipop" />
 
   <!-- Toolchain -->
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="SaberMod/arm-eabi-4.8" remote="github" revision="master" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" name="SaberMod/arm-eabi-4.9" remote="github" revision="master" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="SaberMod/arm-androideabi-4.8" remote="github" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="UBERTC_arm-eabi-4.8" remote="sr" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" name="UBERTC_arm-eabi-4.9" remote="sr" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="UBERTC_arm-androideabi-4.8" remote="sr" revision="master" />
 
   <!-- Vendor -->
   <project path="vendor/cyngn" name="cyngn/android_vendor_cyngn" />
