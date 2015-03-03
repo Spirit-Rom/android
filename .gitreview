@@ -1,5 +1,0 @@
-[gerrit]
-host=review.spirit-rom.com
-port=29418
-project=android.git
-defaultbranch=lollipop
