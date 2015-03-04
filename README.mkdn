@@ -9,4 +9,3 @@ Then to sync up:
 
     repo sync
 
-PUSH
